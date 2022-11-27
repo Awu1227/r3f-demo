@@ -10,6 +10,7 @@ import Shark from "./components/Shark";
 import { Canvas } from "@react-three/fiber";
 import { OrbitControls } from "@react-three/drei";
 
+console.log(Shark);
 export default function App() {
   return (
     <Wrapper className="App">

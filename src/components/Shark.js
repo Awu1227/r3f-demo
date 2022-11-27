@@ -26,7 +26,7 @@ export default function Model(props) {
                 <group
                   name="Armature"
                   rotation={[-Math.PI / 2, 0, 0]}
-                  scale={500}
+                  scale={0.8}
                 >
                   <group name="Object_12">
                     <primitive object={nodes._rootJoint} />
